@@ -34,9 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
-
-
+![](https://github.com/Myesha-Mahazabeen/creatorverse/blob/master/Creatorverse%202.GIF)
  ## License
 
 Copyright [2023] [Myesha Mahazabeen]
