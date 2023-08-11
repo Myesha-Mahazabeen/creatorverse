@@ -1,0 +1,38 @@
+.CreatorCard {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    pointer-events: none;
+}
+
+.card-header-name {
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
+    box-sizing: border-box;
+}
+
+.card-description {
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
+    box-sizing: border-box;
+}
