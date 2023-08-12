@@ -44,7 +44,7 @@ Here's a walkthrough of implemented required features:
 
 ![](https://github.com/Myesha-Mahazabeen/creatorverse/blob/master/Creatorverse.GIF)
  
- GIF created with iphone shortcuts app
+ GIF created with ios shortcuts app
  
  ## License
 
