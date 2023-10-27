@@ -1,5 +1,5 @@
 ## Creatorverse
-Submitted by: Myesha Mahazabeen
+Developed by: Myesha Mahazabeen
 
 About this web app: Creatorverse is a website built with React (frontend) & Supabase(backend) that supports CRUD (create, read, update, and delete) operations on your favorite content creators. Your content creators can be Twitch streamers, YouTube channels, Instagram, Twitter and Tiktok personalities.
 
