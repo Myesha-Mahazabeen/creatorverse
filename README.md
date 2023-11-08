@@ -5,8 +5,8 @@ About this web app: Creatorverse is a website built with React (frontend) & Supa
 
 Time spent: 15 hours
 
-## Required Features
-The following **required** functionality is completed:
+## Features
+
 
  - [x] A logical component structure in React is used to create the frontend of the app
  
@@ -26,16 +26,16 @@ The following **required** functionality is completed:
  
  - [x] The user can add a new content creator by entering a name, URL, or description and then it is displayed on the homepage
 
-The following **optional** features are implemented:
-
  - [x] Picocss is used to style HTML elements
+      
  - [x] The content creator items are displayed in a creative format, like cards instead of a list
+      
  - [x] An image of each content creator is shown on their content creator card
-
- The following **additional** features are implemented:
-
+      
  - [x] Animated the website name heading using css
+       
  - [x] Styled with hover over effect on the creator cards and social buttons/icons
+       
  - [x] Added a footer
 
  ## Video Walkthrough
