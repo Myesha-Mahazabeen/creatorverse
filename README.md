@@ -42,7 +42,7 @@ Time spent: 15 hours
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/Myesha-Mahazabeen/creatorverse/blob/master/Creatorverse.GIF)
+![](https://github.com/Myesha-Mahazabeen/creatorverse/blob/master/creatorverse.gif)
  
  GIF created with ios shortcuts app
  
